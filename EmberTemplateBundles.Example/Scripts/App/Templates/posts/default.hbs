@@ -1,0 +1,7 @@
+﻿<h3>Posts</h3>
+<ul>
+    {{#each model}}
+            <li>{{#linkTo 'posts.post' this}}{{name}}{{/linkTo}}</li>
+    {{/each}}
+</ul>
+{{outlet}}

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmberTemplateBundles", "EmberTemplateBundles\EmberTemplateBundles.csproj", "{80641472-7F40-4981-9B5A-DC3DFAA7E13E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmberTemplateBundles.Example", "EmberTemplateBundles.Example\EmberTemplateBundles.Example.csproj", "{F9BD7797-DF1F-4306-8F09-F72B78FA6030}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{25217781-CC3C-42B6-8375-DC42AB28C803}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80641472-7F40-4981-9B5A-DC3DFAA7E13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80641472-7F40-4981-9B5A-DC3DFAA7E13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80641472-7F40-4981-9B5A-DC3DFAA7E13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80641472-7F40-4981-9B5A-DC3DFAA7E13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BD7797-DF1F-4306-8F09-F72B78FA6030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BD7797-DF1F-4306-8F09-F72B78FA6030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BD7797-DF1F-4306-8F09-F72B78FA6030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BD7797-DF1F-4306-8F09-F72B78FA6030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
