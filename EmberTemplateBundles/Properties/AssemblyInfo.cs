@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("EmberTemplateBundles")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Finanstilsynet")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("EmberTemplateBundles")]
-[assembly: AssemblyCopyright("Copyright © Finanstilsynet 2013")]
+[assembly: AssemblyCopyright("Copyright © Mads Nyborg 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
